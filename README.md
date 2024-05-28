@@ -1,3 +1,70 @@
+# Frontend Mentor - E-commerce product page solution
+
+This is a solution to the E-commerce product page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Dependencies](#dependencies)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+This ecommerce product page was build with React-redux app. For styles I used tailwind CSS and for animations framer-motion. I also designed a dark mode of this page with very nice color scheme. This website is also responsive for all devices. I'm quite happy with the result.
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
+
+### Screenshot
+
+![](./public/desktop-design-darkMode.png)
+![](./public/desktop-design-lightMode.png)
+![](./public/desktop-design-cart-dark.png)
+![](./public/desktop-design-cart-light.png)
+
+These are some screenshots of the finished version.
+
+## Dependencies
+- `framer-motion`
+- `redux`
+- `@redujs/toolkit`
+- `react`
+- `react-dom`
+- `react-icons`
+- `react-redux`
+- `react-scripts`
+
+To install all of the dependencies run ```npm install``` on your local terminal
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Redux](https://redux.js.org/) - For state management
+- [Tailwind-CSS](https://tailwindcss.com/) - For styles
+- [Framer-motion](https://www.framer.com/motion/) - For animations
+
+
+
+# React-redux app
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
