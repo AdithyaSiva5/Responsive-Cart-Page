@@ -40,11 +40,6 @@ Users should be able to:
 
 These are some screenshots of the finished version.
 
-### Links
-
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-ecommerce-landing-page-using-tailwind-with-darklight-mode-Q_3SpzXbOw)
-- Live Site URL: [Live site URL here](https://ecommerce-landing-page8.netlify.app/)
-
 ## Dependencies
 - `framer-motion`
 - `redux`
@@ -82,9 +77,6 @@ For my next project I want to use redux for making api calls with multiple endpo
 
 
 # React-redux app
-# Getting Started with Create React App and Redux
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
 
