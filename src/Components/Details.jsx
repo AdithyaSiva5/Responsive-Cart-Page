@@ -41,7 +41,7 @@ const Details = () => {
           whileInView={{ y: [20, 0], opacity: [0, 1] }}
           transition={{ duration: 0.3, ease: 'easeInOut', delay: 0.2 }}
         >
-          <h3 className='text-[1.75rem] leading-[2.75rem] tracking-[0.052em] font-semibold text-black dark:text-white'>$125.00</h3>
+          <h3 className='text-[1.75rem] leading-[2.75rem] tracking-[0.052em] font-semibold text-black dark:text-white'>₹125.00</h3>
           <span className='px-2 py-1 text-orange bg-paleOrange font-bold text-base tracking-[0.017em] rounded-lg cursor-pointer'>50%</span>
         </motion.div>
         <motion.h3 className='text-grayishBlue font-semibold text-sm md:text-base leading-[1.625rem] tracking-[0.052em] line-through'
@@ -49,7 +49,7 @@ const Details = () => {
           whileInView={{ y: [20, 0], opacity: [0, 1] }}
           transition={{ duration: 0.4, ease: 'easeInOut', delay: 0.3 }}
         >
-          $250.00
+          ₹250.00
         </motion.h3>
       </div>
 

@@ -26,7 +26,7 @@ const Item = () => {
 
         <div>
           <h3 className='text-base font-semibold tracking-[0.002em] leading-[1.625rem] text-grayishBlue'>Fall Limited Edition Sneakers</h3>
-          <p className='text-base font-semibold tracking-[0.002em] leading-[1.625rem] text-grayishBlue'>$125.00 x {count}<span className='text-base font-bold tracking-[0.042em] leading-[1.625rem] text-black ml-1 dark:text-white'>${125.00 * count}</span></p>
+          <p className='text-base font-semibold tracking-[0.002em] leading-[1.625rem] text-grayishBlue'>₹125.00 x {count}<span className='text-base font-bold tracking-[0.042em] leading-[1.625rem] text-black ml-1 dark:text-white'>₹{125.00 * count}</span></p>
         </div>
 
         <div onClick={() => {
