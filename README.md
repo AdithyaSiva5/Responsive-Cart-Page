@@ -1,7 +1,6 @@
 # Frontend Mentor - E-commerce product page solution
-<<<<<<< HEAD
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the E-commerce product page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,18 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-
 ![](./public/desktop-design-darkMode.png)
 ![](./public/desktop-design-lightMode.png)
 ![](./public/desktop-design-cart-dark.png)
 ![](./public/desktop-design-cart-light.png)
 
 These are some screenshots of the finished version.
-
-### Links
-
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-ecommerce-landing-page-using-tailwind-with-darklight-mode-Q_3SpzXbOw)
-- Live Site URL: [Live site URL here](https://ecommerce-landing-page8.netlify.app/)
 
 ## Dependencies
 - `framer-motion`
@@ -69,17 +62,6 @@ To install all of the dependencies run ```npm install``` on your local terminal
 - [Tailwind-CSS](https://tailwindcss.com/) - For styles
 - [Framer-motion](https://www.framer.com/motion/) - For animations
 
-### What I learned
-
-Basically I used redux because I wanted to practice it and it's actually a great tool when you understand it. I'm not going list all the code snippets of what I learned but you can learn redux with this [redux-tutorial](https://redux.js.org/tutorials/essentials/part-2-app-structure).
-
-```javascript
-const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
-```
-
-### Continued development
-
-For my next project I want to use redux for making api calls with multiple endpoints.
 
 
 # React-redux app
